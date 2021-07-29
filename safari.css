@@ -1,0 +1,8 @@
+[stopthemadness-href^="www.google.com"] * {
+  /* Attribute value starts with this */
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, sans-serif !important;
+}
+[stopthemadness-href*="wikipedia.org"] * {
+  /* Attribute value starts with this */
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, sans-serif !important;
+}
